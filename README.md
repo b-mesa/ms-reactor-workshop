@@ -1,4 +1,4 @@
-# GitHub Advanced Security (GHAS) and Copilot Adoption - Microsoft Reactor Series
+## GitHub Advanced Security (GHAS) and Copilot Adoption - Microsoft Reactor Series
 
 ## Introduction
 Welcome to our workshop on GitHub's AI-powered security features. In this session, we'll explore how these tools can enhance your security posture and streamline your development processes.
